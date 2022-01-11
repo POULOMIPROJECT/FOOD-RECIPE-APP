@@ -1,0 +1,2 @@
+# FOOD-RECIPE-APP
+This application that make cooking easier, faster, and more convenient. In fact, such an app is a faithful assistant in the kitchen, a kind of digital scullion. It’s a mini-cook willing to help you with advice and give you the opportunity to consult with other users; and you can share your culinary experience with them too. Of course, the apps in question differ in their functionality in one way or another, but they have one thing in common: they offer you useful cooking content and help you improve your culinary skills.
